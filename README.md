@@ -1,8 +1,8 @@
 - 👋 Hi, I’m  hoang huy hoang
-- 👀 I’m interested in dev c++
-- 🌱 Tôi hiện đang tự làm   😊
-- 💞️ Tôi đang muốn cộng tác trên ...
-- 📫 How to reach me ...
+- 👀 I’m interested in program💚
+- 🌱 I am currently self-employed 😊
+- 💞️ I'm looking to collaborate on many fields ...
+- 📫 you can contact me by phone number 0782430580 📵
 
 <!---
 hoanghuyhoang33/hoanghuyhoang33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
